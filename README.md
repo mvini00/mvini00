@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 
 <p>Prazer meu nome é Marcos Vinicius tenho 20 anos, sou do Brasil, estou cursando Técnico Informática no Senac São Bernardo do Campo - SP 👨🏼‍🎓 <p/>
 <p> Sempre aberto a novos desafios e pronto para enfrentar mudanças!</p>
+<h2> "Sempre em busca do conhecimento" 🧠</h2>
+<p> Atualmente estou aprendendo HTML / CSS / JavaScript 👨🏼‍💻</p>
