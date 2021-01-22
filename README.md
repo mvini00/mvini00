@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p>Prazer meu nome é Marcos Vinicius tenho 20 anos, sou do Brasil, estou cursando Técnico Informática no Senac São Bernardo do Campo - SP 👨🏼‍🎓 <p/>
+<p> Sempre aberto a novos desafios e pronto para enfrentar mudanças!</p>
