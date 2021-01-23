@@ -19,8 +19,8 @@
 
 ---
 
-<!-- ### Connect with me:
+### Connect with me:
 
-[<img align="center" alt=" | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/in/) -->
+[<img align="center" alt="LinkedIn" | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/in/marcos-vinicius-131a7b204/) -->
 
 </div>
